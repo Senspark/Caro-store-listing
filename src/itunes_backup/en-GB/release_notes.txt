@@ -1,0 +1,3 @@
+- New algorithm : Block 2 sides
+- New graphics
+- Board zoom in/out

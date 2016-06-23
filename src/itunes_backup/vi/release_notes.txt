@@ -1,0 +1,3 @@
+- Thuật toán mới : Chặn 2 đầu sẽ không thắng 
+- Hình ảnh mới đẹp hơn 
+- Bàn cờ có thể phóng to và thu nhỏ 
