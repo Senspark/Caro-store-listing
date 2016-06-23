@@ -1,0 +1,3 @@
+- Thêm thuật toán mới: Bị chặn 2 bên
+- Đồ họa mới
+- Bàn cờ có thể phóng to / thu nhỏ
