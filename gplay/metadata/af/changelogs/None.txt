@@ -1,0 +1,3 @@
+- Nuwe algoritme: Geblokkeerde 2 kante
+- Nuwe grafiese
+- Raad zoom in / uit

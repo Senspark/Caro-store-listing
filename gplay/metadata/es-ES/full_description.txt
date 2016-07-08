@@ -1,0 +1,12 @@
+Gomoku también llamado gobang, tres en raya o cinco en una fila es un juego de estrategia clásica para dos jugadores. Los jugadores se alternan en la colocación de una marca de su color en una celda vacía a bordo. El ganador es el primer jugador en conseguir una fila ininterrumpida de cinco marcas de forma horizontal, vertical o diagonal
+
+caracteristicas:
+* 5 niveles de dificultad
+* Deshacer su error se mueve
+* Seleccione el tablero de mirar sin problemas con muchos de mesa y los colores de fondo.
+* Añadir regla caro vietnamita (bloque 2 lados)
+* Apoyo Inglés, vietnamita
+* Personalice su perfil con muchos tipos de avatar.
+
+Esta es la mejor Caro (Gomoku) para usted
+Juega Caro (Gomoku) ahora!

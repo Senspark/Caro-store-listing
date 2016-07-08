@@ -1,0 +1,12 @@
+Gomoku també anomenat Gobang, tres en ratlla o cinc en una fila és un joc d'estratègia clàssica per a dos jugadors. Els jugadors s'alternen en la col·locació d'una marca del seu color en una cel·la buida a bord. El guanyador és el primer jugador a aconseguir una fila ininterrompuda de cinc marques de forma horitzontal, vertical o diagonal
+
+Característiques:
+* 5 nivells de dificultat
+* Desfer el seu error es mou
+* Seleccioneu el tauler de mirar sense problemes amb molts de taula i els colors de fons.
+* Afegir regla car vietnamita (bloc 2 costats)
+* Suport Anglès, vietnamita
+* Personalitzi el seu perfil amb molts tipus d'avatar.
+
+Aquesta és la millor Car (Gomoku) per a vostè
+Juga Car (Gomoku) ara!

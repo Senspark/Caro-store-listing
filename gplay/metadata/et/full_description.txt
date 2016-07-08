@@ -1,0 +1,12 @@
+Gomoku nimetatakse ka Gobang, trull või viis järjest on klassikaline strateegia lauamängu kaks mängijat. Mängijad vaheldumisi asetades märk nende värvi tühja lahtri pardal. Võitja on esimene mängija saada katkematu rida viis märgid horisontaalselt, vertikaalselt või diagonaalselt
+
+Omadused:
+* 5 raskusastet
+* Annuleerib viga käigud
+* Vali millest pardal otsida lihtsalt paljude pardal & taustavärvi.
+* Lisa vietnamese Caro reegel (plokk 2 külge)
+* Toetus inglise, vietnami
+* Muuda oma profiili paljude avatar tüüpi.
+
+See on parim Caro (Gomoku) teile
+Mängi Caro (Gomoku) nüüd!

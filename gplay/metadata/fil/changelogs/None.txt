@@ -1,0 +1,3 @@
+- Bagong algorithm: Na-block 2 panig
+- Bagong graphics
+- Board zoom in / out

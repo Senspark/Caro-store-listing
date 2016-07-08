@@ -1,0 +1,3 @@
+- New algoritmoa: Blokeatua 2 alboetan
+- New grafikoak
+- Kontseiluko zoom in / out

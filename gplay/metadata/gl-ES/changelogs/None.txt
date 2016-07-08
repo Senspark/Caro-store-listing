@@ -1,0 +1,3 @@
+- Novo algoritmo: pechado 2 lados
+- Novos gráficos
+- Zoom Board in / out

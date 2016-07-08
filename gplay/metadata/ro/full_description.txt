@@ -1,0 +1,12 @@
+Gomoku, de asemenea, numit gobang, tep Tic Tac sau cinci într-un rând este un joc clasic de bord strategie pentru doi jucători. Jucătorul care alternează în plasarea unei mărci de culoarea lor pe o celulă goală la bord. Castigatorul este primul jucător pentru a obține un șir neîntrerupt de cinci mărci pe orizontală, pe verticală, sau în diagonală
+
+Caracteristici:
+* 5 nivele de dificultate
+* Anulați mișcările tale Greșeala
+* Selectați bord uite cu ușurință cu multe bord si culorile de fundal.
+* Adăugați regula caro Vietnamese (blocul 2 fețe)
+* Suport în engleză, vietnameză
+* Personalizează profilul cu mai multe tipuri de avatar.
+
+Acesta este cel mai bun Caro (Gomoku) pentru tine
+Caro juca (Gomoku) acum!

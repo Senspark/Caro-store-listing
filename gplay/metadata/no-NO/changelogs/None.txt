@@ -1,0 +1,3 @@
+- Nye algoritme: Blokkert 2 sider
+- Ny grafikk
+- Board zoom inn / ut

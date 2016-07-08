@@ -1,0 +1,1 @@
+Gomoku ir klasisks stratēģija galda spēle diviem spēlētājiem

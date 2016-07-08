@@ -1,0 +1,12 @@
+Gomoku esibizwa nangokuthi gobang, Tic Tac Toe noma eziyisihlanu zilandelana is a classic isu ibhodi game for abadlali ababili. Abadlali enye ukuhambisa uphawu umbala babo indlela cell ezingenalutho on ebhodini. Ophumelele yilona umdlali wokuqala ukuthola i irowu ziqotho amamaki emihlanu nendawo, zibheka, noma ngokuphambeneyo
+
+Izici:
+* 5 amazinga nobunzima
+* Hlehlisa iphutha lakho uhamba
+* Khetha ukuthi iyiphi ebhodini bheka kalula nge eziningi ibhodi & background imibala.
+* Engeza Vietnamese Caro rule (ukuvimba 2 emaceleni)
+* Ukusekela English, Vietnamese
+* Yenza iphrofayela yakho nezinhlobo eziningi avatar.
+
+Lona best Caro (Gomoku) ngawe
+Play Caro (Gomoku) manje!

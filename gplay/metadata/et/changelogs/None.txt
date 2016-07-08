@@ -1,0 +1,3 @@
+- Uus algoritm: Blokeeritud 2 külge
+- Uus graafika
+- Foorumi zoom in / out

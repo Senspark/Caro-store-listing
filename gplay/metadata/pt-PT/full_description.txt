@@ -1,0 +1,12 @@
+Gomoku também chamado Gobang, tic tac toe ou cinco vezes seguidas é um jogo de tabuleiro de estratégia clássica para dois jogadores. Os jogadores alternam na colocação de uma marca de sua cor em uma célula vazia a bordo. O vencedor é o primeiro jogador a obter uma linha ininterrupta de cinco marcas na horizontal, vertical ou diagonal
+
+Características:
+* 5 níveis de dificuldade
+* Desfazer seus movimentos erro
+* Escolha qual placa olhar facilmente com muitas cores de tabuleiro e de fundo.
+* Adicione regra caro vietnamita (bloco 2 lados)
+* Apoio Inglês, Vietnamita
+* Personalize o seu perfil com muitos tipos avatar.
+
+Esta é a melhor Caro (Gomoku) para você
+Jogar Caro (Gomoku) agora!

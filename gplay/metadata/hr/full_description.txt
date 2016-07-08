@@ -1,0 +1,12 @@
+Gomoku se nazivaju Gobang, Tic Tac Toe ili pet u nizu je klasična igra strategije ploči za dva igrača. Igrači naizmjence u stavljanjem znak njihove boje na praznu ćeliju na brodu. Pobjednik je prvi igrač dobiti neprekinutu red od pet maraka vodoravno, okomito ili dijagonalno
+
+Značajke:
+* 5 razina težine
+* Poništi pogrešku poteze
+* Odabir koja je daska izgleda lako s mnogim odbora i pozadinske boje.
+* Dodajte Vijetnamski Caro pravilo (blok 2 strane)
+* Podrška engleski, vijetnamski
+* Personalizirajte svoj profil s mnogo vrsta avatar.
+
+Ovo je najbolje Caro (Gomoku) za vas
+Igra Caro (Gomoku) sada!

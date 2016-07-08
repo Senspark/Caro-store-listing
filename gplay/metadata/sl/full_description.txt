@@ -1,0 +1,12 @@
+Gomoku imenuje tudi gobang, tic tac toe ali pet zapored je klasična strategija, družabne igre za dva igralca. Igralci menjajo dajanje znak njihove barve na prazno celico na krovu. Zmagovalec je prvi igralec, da bi dobili neprekinjeno vrsto petih znamk vodoravno, navpično ali diagonalno
+
+Lastnosti:
+* 5 težavnostne stopnje
+* Razveljavi tvoja napaka poteze
+* Izberite ki plošča lahko ogledate s številnimi krovu in barvo ozadja.
+* Dodaj vietnamščina pravilo Caro (blok 2 strani)
+* Podpora angleščina, vietnamščina
+* Prilagodite svoj profil s številnimi vrstami avatar.
+
+To je najboljši Caro (Gomoku) za vas
+Igraj Caro (Gomoku) zdaj!

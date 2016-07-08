@@ -1,0 +1,1 @@
+Gomoku yra klasikinis strateginis stalo žaidimas dviems žaidėjams

@@ -1,0 +1,12 @@
+Gomoku einnig kallað Gobang, Tic Tac Toe eða fimm í röð er klassískur stefna borð leikur fyrir tvo leikmenn. Leikmenn skiptis í að setja merki um lit þeirra á fastandi klefi um borð. Sigurvegarinn er sá fyrsti leikmaðurinn til að fá órofa röð fimm merki lárétt, lóðrétt eða á ská
+
+Features:
+* 5 stig af erfiðleikum
+* Hætta mistök færist
+* Veldu hvaða borð líta auðveldlega við mörg borð og bakgrunni litum.
+* Bæta vietnamese Caro reglu (blokk 2 hliðar)
+* Stuðningur English, víetnamska
+* Eigið prófíl þínum með mörgum tegundum avatar.
+
+Þetta er besta Caro (Gomoku) fyrir þig
+Spila Caro (Gomoku) nú!

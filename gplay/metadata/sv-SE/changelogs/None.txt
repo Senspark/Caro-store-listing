@@ -1,0 +1,3 @@
+- ny algoritm: Blockerad 2 sidor
+- Ny grafik
+- Styrelsen zooma in / ut

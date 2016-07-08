@@ -1,0 +1,1 @@
+Gomoku is a classical strategy board game for two players

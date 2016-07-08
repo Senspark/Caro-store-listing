@@ -1,0 +1,3 @@
+- Nou algoritme: Bloquejat 2 costats
+- Nous gràfics
+- Junta de zoom in / out

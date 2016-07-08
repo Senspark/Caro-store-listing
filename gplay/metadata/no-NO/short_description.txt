@@ -1,0 +1,1 @@
+Gomoku er et klassisk strategi brettspill for to spillere

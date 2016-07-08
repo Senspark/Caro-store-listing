@@ -1,0 +1,3 @@
+- Nowy algorytm: Zablokowane 2 strony
+- Nowe grafiki
+- Zoom Board in / out

@@ -1,0 +1,12 @@
+Gomoku ook wel Gobang, tic tac teen of vijf op een rij is een klassiek strategie bordspel voor twee spelers. Spelers wisselen in het plaatsen van een teken van hun kleur op een lege cel aan boord. De winnaar is de eerste speler die een ononderbroken rij van vijf merken horizontaal, verticaal of diagonaal te krijgen
+
+Kenmerken:
+* 5 moeilijkheidsgraden
+* Ongedaan maken uw fout moves
+* Selecteer welke board eenvoudig met vele bordspellen & achtergrondkleuren.
+* Voeg vietnamese caro regel (blok 2 kanten)
+* Ondersteuning Engels, Vietnamees
+* Personaliseer je profiel met vele soorten avatar.
+
+Dit is de beste Caro (Gomoku) voor u
+Play Caro (Gomoku) nu!

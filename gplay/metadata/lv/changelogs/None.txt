@@ -1,0 +1,3 @@
+- Jaunas algoritms: bloķēts 2 puses
+- Jaunas grafikas
+- Board zoom in / out

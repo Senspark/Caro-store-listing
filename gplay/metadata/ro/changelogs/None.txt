@@ -1,0 +1,3 @@
+- Un nou algoritm: Blocate 2 fete
+- Grafica noi
+- Consiliul de zoom in / out

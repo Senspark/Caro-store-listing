@@ -1,0 +1,1 @@
+Gomoku on klassinen lautapelin kaksi pelaajaa

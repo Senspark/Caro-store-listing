@@ -1,0 +1,3 @@
+- Yeni alqoritmi: Ban 2 tərəf
+- Yeni qrafika
+- Board zoom / out

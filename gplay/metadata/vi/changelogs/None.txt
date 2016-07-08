@@ -1,0 +1,3 @@
+- New thuật toán: Bị chặn 2 bên
+- Đồ họa mới
+- Ban zoom in / out

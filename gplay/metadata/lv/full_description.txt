@@ -1,0 +1,12 @@
+Gomoku sauc arī Gobang, tic tac toe vai pieci pēc kārtas ir klasisks stratēģija galda spēle diviem spēlētājiem. Spēlētāji pārmaiņus izvietojot zīmi to krāsu tukšā šūnā uz kuģa. Uzvarētājs ir pirmais spēlētājs, lai iegūtu nepārtraukta rindu piecu zīmju horizontāli, vertikāli vai pa diagonāli
+
+Iespējas:
+* 5 līmeņu grūtībās
+* Atsaukt savu kļūdu pārceļas
+* Izvēlieties kuru valde izskatās viegli ar daudzām klāja un fona krāsas.
+* Pievienot vjetnamiešu Caro noteikumu (bloks 2 pusēm)
+* Atbalstīt angļu, vjetnamiešu
+* Personalizējiet savu profilu ar daudziem avatar veidiem.
+
+Tas ir labākais Caro (Gomoku) jums
+Spēlēt Caro (Gomoku) tagad!

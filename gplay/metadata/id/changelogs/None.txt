@@ -1,0 +1,3 @@
+- New algoritma: Diblokir 2 sisi
+- Grafis baru
+- Zoom Dewan in / out

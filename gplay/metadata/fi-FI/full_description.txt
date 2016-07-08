@@ -1,0 +1,12 @@
+Gomoku kutsutaan myös Gobang, ristinollan tai viisi peräkkäin on klassinen lautapelin kaksi pelaajaa. Pelaajat vuorottelevat laittamalla merkki niiden väri tyhjään soluun aluksella. Voittaja on ensimmäinen pelaaja saada ehjä rivi viisi markkaa vaakasuoraan, pystysuoraan tai vinottain
+
+Ominaisuudet:
+* 5 vaikeustasoa
+* Kumoa virhe liikkuu
+* Valitse jotka hallitus näyttää helposti moniin lauta ja taustan värejä.
+* Lisää vietnam Caro sääntö (lohko 2 puolta)
+* Tuki Englanti, Vietnam
+* Muokkaa profiiliasi monia avatar tyyppejä.
+
+Tämä on paras Caro (Gomoku) sinulle
+Toista Caro (Gomoku) nyt!

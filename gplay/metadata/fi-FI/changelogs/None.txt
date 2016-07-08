@@ -1,0 +1,3 @@
+- Uusi algoritmi: Estetty 2 puolta
+- Uusi grafiikka
+- Hallitus zoom in / out

@@ -1,0 +1,12 @@
+Piškvorky také volal Gobang, Tic Tac Toe nebo pět v řadě je klasická strategická stolní hra pro dva hráče. Hráči se střídají v umístění značku jejich barvy na prázdné buňky na palubě. Vítězem je první hráč získat nepřerušenou řadu pěti značek vodorovně, svisle nebo šikmo
+
+Funkce:
+* 5 úrovní obtížnosti
+* Uvolněte svou chybu pohyby
+* Vyberte, které deska vypadat jednoduše s mnoha palubách a barvy pozadí.
+* Přidat vietnamské pravidlo Caro (blok 2 strany)
+* Podpora angličtina, vietnamština
+* Přizpůsobte si svůj profil s mnoha typy avatara.
+
+To je nejlepší Caro (piškvorky) pro vás
+Hrát Caro (Piškvorky) nyní!

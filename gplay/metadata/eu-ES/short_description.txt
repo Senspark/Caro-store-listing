@@ -1,0 +1,1 @@
+Gomoku klasikoa estrategia bi jokalari joko bat da

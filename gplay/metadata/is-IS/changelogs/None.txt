@@ -1,0 +1,3 @@
+- Ný reiknirit: Útilokað 2 hliðar
+- Ný grafík
+- Stjórn zoom í / út

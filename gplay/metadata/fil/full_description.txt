@@ -1,0 +1,12 @@
+Gomoku tinatawag din gobang, pagkimbot ng laman tac daliri ng paa o limang sa isang hilera ay isang classical diskarte board game para sa dalawang manlalaro. Mga manlalaro kahaliling sa paglalagay ng isang marka ng kanilang mga kulay sa isang walang laman na cell sa board. Ang nagwagi ay ang unang player upang makakuha ng isang walang lagot na hilera ng limang marks pahalang, patayo, o pahilis
+
+Mga tampok:
+* 5 antas ng kahirapan
+* I-undo ang iyong pagkakamali gumagalaw
+* Piliin kung aling mga board tumingin madali na may maraming mga board & background kulay.
+* Magdagdag vietnamese caro panuntunan (harangan 2 panig)
+* Suporta sa Ingles, Vietnamese
+* Isapersonal ang iyong profile na may maraming uri avatar.
+
+Ito ang pinakamahusay na Caro (Gomoku) para sa iyo
+I-play Caro (Gomoku) ngayon!

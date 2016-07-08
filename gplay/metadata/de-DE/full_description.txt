@@ -1,0 +1,12 @@
+Gomoku auch genannt gobang, Tic Tac Toe oder fünf in einer Reihe ist eine klassische Strategie-Brettspiel für zwei Spieler. Spieler abwechselnd eine Markierung ihrer Farbe auf eine leere Zelle an Bord bei der Platzierung. Der Gewinner ist der erste Spieler eine ununterbrochene Reihe von fünf Mark horizontal zu bekommen, vertikal oder diagonal
+
+Eigenschaften:
+* 5 Schwierigkeitsstufen
+Rückgängig * Ihre Fehler bewegt
+* Wählen Sie die Board aussehen leicht mit vielen Board & Hintergrundfarben.
+* Vietnamesisch caro Regel hinzufügen (Block 2 Seiten)
+* Support Englisch, Vietnamesisch
+* Personalisieren Sie Ihr Profil mit vielen Avatar-Typen.
+
+Dies ist die beste Caro (Gomoku) für Sie
+Spielen Caro (Gomoku) jetzt!

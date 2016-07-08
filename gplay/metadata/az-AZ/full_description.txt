@@ -1,0 +1,12 @@
+Bir sıra Gomoku də deyilən Gobang, tic tac toe və ya beş iki oyuncu üçün, bir klassik strategiya board oyun. Oyunçular board boş hüceyrə onların rəngli bir işarə yerləşdirilməsi alternativ. Qalib yatay, uzununa və ya çapraz beş işarələri bir bütöv sıra almaq üçün ilk oyunçu
+
+Xüsusiyyətləri:
+* 5 çətinlik səviyyəsi
+* Sizin səhv hərəkət qaytar
+* Bir çox board və background rəngləri ilə asanlıqla baxmaq olan board seçin.
+* Vietnamese Caro qayda əlavə (2 tərəflər blok)
+* Support İngilis, Vyetnam
+* Bir çox avatar növləri ilə sizin profil Şəxsiləşdir.
+
+Bu sizin üçün ən yaxşı Caro (Gomoku) təşkil edir
+İndi Caro (Gomoku) Play!

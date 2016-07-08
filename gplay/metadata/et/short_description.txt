@@ -1,0 +1,1 @@
+Gomoku on klassikaline strateegia lauamängu kaks mängijat

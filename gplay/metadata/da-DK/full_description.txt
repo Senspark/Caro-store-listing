@@ -1,0 +1,12 @@
+Gomoku også kaldet Gobang, Tic Tac Toe eller fem i træk er en klassisk strategi brætspil for to spillere. Spillere skiftevis i at placere et mærke på deres farve på en tom celle om bord. Vinderen er den første spiller til at få en ubrudt række af fem mærker vandret, lodret eller diagonalt
+
+Funktioner:
+* 5 sværhedsgrader
+* Fortryd dine fejl bevæger
+* Vælg hvilken board ser nemt med mange board & baggrundsfarver.
+* Tilføj vietnamesisk caro regel (blok 2 sider)
+* Støtte Engelsk, Vietnamesisk
+* Tilpas dit profil med mange avatar typer.
+
+Dette er den bedste Caro (Gomoku) for dig
+Afspil Caro (Gomoku) nu!

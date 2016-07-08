@@ -1,0 +1,3 @@
+- Nuevo algoritmo: Bloqueado 2 lados
+- Nuevos gráficos
+- Junta de zoom in / out

@@ -1,0 +1,12 @@
+Arka arkaya gomoku da denilen gobang, tic tac toe veya beş iki oyuncu için klasik bir strateji oyunudur. Oyuncular gemide boş bir hücreye kendi renk bir işareti yerleştirerek alternatif. Kazanan yatay, dikey veya çapraz beş işaretleri kesintisiz bir satır almak için ilk oyuncu
+
+Özellikler:
+* 5 zorluk seviyesi
+* Senin hatan hamle geri al
+* Birçok tahta ve arka plan renkleri ile kolayca bakmak hangi tahta seçin.
+* Vietnamca caro kuralı ekleyin (2 tarafı blok)
+* Destek İngilizce, Vietnamca
+* Birçok avatar türleri ile profilinizi kişiselleştirin.
+
+Bu sizin için en iyi Caro (Gomoku) 'dir
+Şimdi Caro (Gomoku) Play!

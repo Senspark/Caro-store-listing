@@ -1,0 +1,3 @@
+- Nouvel algorithme: Bloqué 2 côtés
+- Nouveaux graphiques
+- Zoom Board in / out

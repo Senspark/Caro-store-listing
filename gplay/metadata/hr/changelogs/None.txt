@@ -1,0 +1,3 @@
+- Novi algoritam: Blokirani 2 strane
+- Novi grafike
+- Zoom odbor in / out

@@ -1,0 +1,12 @@
+Gomoku ook genoem Gobang, tic tac toe of vyf in 'n ry is 'n klassieke strategie bordspel vir twee spelers. Spelers wissel in plaas van 'n punt van hul kleur op 'n leë sel aan boord. Die wenner is die eerste speler om 'n ononderbroke ry van vyf punte horisontaal, vertikaal, of skuins kry
+
+Kenmerke:
+* 5 vlakke van moeilikheidsgraad
+* Undo jou fout beweeg
+* Kies watter raad maklik lyk met baie raad en agtergrond kleure.
+* Voeg vietnamese Caro reël (blok 2 kante)
+* Ondersteuning Engels, Viëtnamees
+* Verpersoonlik jou profiel met baie verskillende tipes pad.
+
+Dit is die beste Caro (Gomoku) vir jou
+Speel Caro (Gomoku) nou!

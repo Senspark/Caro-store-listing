@@ -1,0 +1,3 @@
+- Neuer Algorithmus: Blockierte 2 Seiten
+- Neue Grafik
+- Foren-Zoom in / out

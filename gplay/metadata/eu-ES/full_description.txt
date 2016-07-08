@@ -1,0 +1,12 @@
+Gomoku ere deitzen Gobang, TIC TAC behatz edo bost ilara batean klasikoa estrategia bi jokalari joko bat da. Jokalariak taula gainean zelula huts bat bere kolore marka bat jartzea ere tartekatzen. Irabazleak lehen jokalaria bost markak ilara etengabe batekin, horizontalki, bertikalki edo diagonalki iritsi da
+
+Ezaugarriak:
+* 5 zailtasun maila
+* Desegin zure akats mugitzen
+* Aukeratu zein taula erraz begiratu taula & bigarren planoan asko koloreekin.
+* Gehitu vietnamese caro araua (blokeatu 2 alboetan)
+* Euskarria English, Vietnamese
+* Pertsonalizatu zure profila avatar mota ugari.
+
+Hau Caro onena (Gomoku) da zuretzat
+Play Caro (Gomoku) orain!

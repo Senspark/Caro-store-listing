@@ -1,0 +1,3 @@
+- naujas algoritmas: Blocked 2 pusių
+- Nauji grafika
+- Valdybos Padidinti /

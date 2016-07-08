@@ -1,0 +1,1 @@
+Gomoku iki oyuncu için klasik bir strateji oyunudur

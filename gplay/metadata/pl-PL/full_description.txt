@@ -1,0 +1,12 @@
+Gomoku zwany także GoBang, Tic Tac Toe lub pięć w rzędzie to klasyczna gra planszowa strategia dla dwóch graczy. Gracze na przemian na umieszczeniu znaku ich kolor na pustej komórce na pokładzie. Zwycięzcą zostaje pierwszy gracz, który zbierze nieprzerwany rząd pięciu znaków poziomo, pionowo lub ukośnie
+
+Cechy:
+* 5 poziomów trudności
+* Cofanie swoje ruchy pomyłkę
+* Wybierz które wyglądają pokładzie łatwo z wielu płyt i tła.
+* Dodaj wietnamski regułę caro (blok 2 strony)
+* Wsparcie angielski, wietnamski
+* Dostosuj swój profil z wieloma typami awatara.
+
+Jest to najlepszy Caro (Gomoku) dla Ciebie
+Graj Caro (Gomoku) teraz!

@@ -1,0 +1,12 @@
+Gomoku pia inaitwa Gobang, tic tac toe au tano katika mstari ni classical mkakati bodi mchezo kwa wachezaji wawili. Wachezaji mbadala katika kuweka alama ya rangi zao juu ya kiini tupu juu ya bodi. Mshindi ni mchezaji wa kwanza kupata mstari wa alama tano zisizovunjika usawa, wima, au diagonally
+
+vipengele:
+* 5 ngazi ya ugumu
+* Undo makosa hatua yako
+* Chagua ambayo bodi kuangalia kwa urahisi na watu wengi bodi & background rangi.
+* Kuongeza vietnamese caro utawala (kuzuia pande 2)
+* Support Kiingereza, Kivietinamu
+* Ya binafsi profile yako na aina nyingi avatar.
+
+Hii ni Caro bora (Gomoku) kwa ajili yenu
+Kucheza Caro (Gomoku) sasa!

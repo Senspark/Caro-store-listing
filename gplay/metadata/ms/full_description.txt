@@ -1,0 +1,12 @@
+Gomoku juga dipanggil Gobang, tic tac kaki atau lima berturut-turut adalah yang klasik permainan papan strategi untuk dua pemain. Pemain ganti dalam meletakkan tanda warna mereka pada sel kosong di atas kapal. Pemenang adalah pemain pertama untuk mendapatkan berturut-turut cemerlang dalam lima tanda secara menegak, melintang atau menyerong
+
+Ciri-ciri:
+* 5 tahap kesukaran
+* Buat asal bergerak kesilapan anda
+* Pilih mana lembaga melihat dengan mudah dengan banyak papan & latar belakang warna.
+* Tambah peraturan caro vietnamese (menyekat 2 belah)
+* Sokongan Bahasa Inggeris, Vietnam
+* Peribadikan profil anda dengan pelbagai jenis avatar.
+
+Ini adalah yang terbaik Caro (Gomoku) untuk anda
+Main Caro (Gomoku) sekarang!

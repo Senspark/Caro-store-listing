@@ -1,0 +1,3 @@
+- Nuovo algoritmo: bloccati 2 lati
+- Nuova grafica
+- Zoom Consiglio in / out

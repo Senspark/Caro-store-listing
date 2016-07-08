@@ -1,0 +1,3 @@
+- New algorithm: Uvinjiwe 2 izinhlangothi
+- Ihluzo New
+- Board zoom in / out

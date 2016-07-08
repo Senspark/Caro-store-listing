@@ -1,0 +1,12 @@
+Gomoku chiamato anche Gobang, tic tac toe o cinque di fila è un classico gioco da tavolo di strategia per due giocatori. I giocatori si alternano nel porre un segno del loro colore su una cella vuota a bordo. Il vincitore è il primo giocatore per ottenere una fila ininterrotta di cinque marchi in orizzontale, verticale o diagonale
+
+Caratteristiche:
+* 5 livelli di difficoltà
+* Annulla le tue mosse errore
+* Selezionare il bordo guardare facilmente con molti colori da tavolo e background.
+* Aggiungi regola caro vietnamita (blocco 2 lati)
+* Supporto inglese, vietnamita
+* Personalizza il tuo profilo con molti tipi avatar.
+
+Questo è il miglior Caro (Gomoku) per voi
+Gioca Caro (Gomoku) ora!

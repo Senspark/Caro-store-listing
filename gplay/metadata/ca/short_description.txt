@@ -1,0 +1,1 @@
+Gomoku és un joc de taula d'estratègia clàssica per a dos jugadors

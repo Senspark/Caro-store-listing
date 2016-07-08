@@ -1,0 +1,3 @@
+- Yeni algoritma: Engellenen 2 taraf
+- Yeni grafikler
+- Yönetim Kurulu yakınlaştırma / uzaklaştırma

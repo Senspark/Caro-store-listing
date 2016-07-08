@@ -1,0 +1,3 @@
+- Új algoritmus: Blokkolt 2 oldalon
+- Új grafika
+- Board zoom in / out

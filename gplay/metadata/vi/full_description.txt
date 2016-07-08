@@ -1,0 +1,11 @@
+Caro-Gomoku là một trò chơi chiến thuật trên bàn cờ. Người chơi thay nhau đánh các quân cờ của họ trên các ô trống. Người thắng là người đầu tiên có được một chuỗi liên tục gồm 5 quân hàng ngang, hoặc dọc, hoặc chéo.
+
+Chức năng:
+* 5 cấp độ chơi từ dễ đến khó 
+* Có thể đi lại nếu nước đi không như ý muốn  
+* Có thể tuỳ chọn chặn 2 đầu hoặc không 
+* Lựa chọn bàn cờ theo ý thích 
+* Hỗ trợ tiếng anh và tiếng việt 
+
+Đây chắc chắn là Game Caro tốt nhất dành cho bạn 
+Hãy tải về và chơi Caro ngay bây nờ nào!

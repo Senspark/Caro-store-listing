@@ -1,0 +1,12 @@
+Gomoku taip pat vadinamas gobang, Tic Tac Toe arba penkių iš eilės yra klasikinis strateginis stalo žaidimas dviems žaidėjams. Žaidėjai pakaitomis įtraukdavo savo spalva ženklą ant tuščio langelio laive. Laimi pirmas žaidėjas gauti nenutrūkstamą eilę iš penkių ženklų horizontaliai, vertikaliai arba įstrižai
+
+Funkcijos:
+* 5 lygius sunkumų
+* Undo savo klaidą juda
+* Pasirinkite, kuriuos lenta atrodo lengvai su daugeliu plokščių ir fono spalvas.
+* Pridėti vietnamese Caro taisyklę (blokas 2 pusių)
+* Parama anglų, vietnamiečių
+* Nustatyti savo profilį su daugeliu avatarai tipų.
+
+Tai geriausias Caro (Gomoku) už jus
+Žaisti Caro (Gomoku) dabar!
