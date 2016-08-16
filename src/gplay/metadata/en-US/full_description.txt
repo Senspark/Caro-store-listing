@@ -1,0 +1,35 @@
+Gomoku also called gobang, tic tac toe or five in a row is a classical strategy board game for two players. Players alternate in placing a mark of their color on an empty cell on board. The winner is the first player to get an unbroken row of five marks horizontally, vertically, or diagonally
+
+Features:
+* 5 levels of difficulty
+* Undo your mistake moves
+* Select which board look easily with many board & background colors.  
+* Add vietnamese caro rule (block 2 sides)
+* Support English, Vietnamese
+* Personalise your profile with many avatar types.
+
+This is the best Ca ro (Gomoku) for you
+Play Caro (Gomoku) now!
+
+CONTACT US:
+ - Visit our official site at http://www.senspark.com
+ - Send your feedback via feedback@senspark.com
+ - Like & follow on https://www.facebook.com/TeamSenspark
+
+SENSPARK Game Studio is the studio behind the success of the top download classic casual games: Gold Miner, Shoot Dinosaur Eggs, Line 98, Jewel, Chess ...
+
+Cùng từ nhà phát triển game Đào Vàng, Bắn Trứng, Lines 98, Kim Cương … với hàng triệu người chơi.
+
+Trò chơi di động miễn phí hay nhất ở Việt Nam!
+
+Caro-Gomoku là một trò chơi chiến thuật trên bàn cờ. Người chơi thay nhau đánh các quân cờ của họ trên các ô trống. Người thắng là người đầu tiên có được một chuỗi liên tục gồm 5 quân hàng ngang, hoặc dọc, hoặc chéo.
+
+Chức năng:
+* 5 cấp độ chơi từ dễ đến khó 
+* Có thể đi lại nếu nước đi không như ý muốn  
+* Có thể tuỳ chọn chặn 2 đầu hoặc không 
+* Lựa chọn bàn cờ theo ý thích 
+* Hỗ trợ tiếng anh và tiếng việt 
+
+Đây chắc chắn là Game Caro tốt nhất dành cho bạn 
+Hãy tải về và chơi Caro ngay bây nờ nào!
